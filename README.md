@@ -3,7 +3,7 @@
 This Matlab toolbox allows to compute analytically the parameters of a VAR model exploring the combined approach of LASSO regression and State space (SS) models. Then, all the information measures composing the Partial Information Decomposition (PID) and conditional Transfer Entropy (cTE) are computed for multivariate stochastic process elaborating the results provided in [1]-[2]-[3].
 
 
-[1]-Antonacci, Y.; Astolfi, L.; Nollo, G.; Faes L.; Information Transfer in Linear Multivariate Processes Assessed through Penalized Regression Techniques: Validation and Application to Physiological Networks. Entropy 2020, 22(7), 732.
+[1]-**Antonacci, Y.**; Astolfi, L.; Nollo, G.; Faes L.; Information Transfer in Linear Multivariate Processes Assessed through Penalized Regression Techniques: Validation and Application to Physiological Networks. Entropy 2020, 22(7), 732.
 
 [2]-Faes, L.; Marinazzo, D.; Stramaglia, S. Multiscale information decomposition: Exact computation for multivariate Gaussian processes. Entropy 2017, 19, 408.
 
